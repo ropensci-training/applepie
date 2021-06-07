@@ -1,4 +1,4 @@
-Package: apollo13
+Package: applepie
 Title: Client to Access the 'R-Universe' 'API'
 Version: 0.0.0.9000
 Authors@R: 
@@ -13,8 +13,8 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
-URL: https://github.com/maelle/apollo13
-BugReports: https://github.com/maelle/apollo13/issues
+URL: https://github.com/maelle/applepie
+BugReports: https://github.com/maelle/applepie/issues
 Imports: 
     httr,
     jsonlite
